@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="260" viewBox="0 0 240 260">
+  <g id="number_industry" transform="translate(-195 -967)">
+    <g id="グループ_434" data-name="グループ 434" transform="translate(0 68)">
+      <rect id="長方形_382" data-name="長方形 382" width="240" height="260" rx="16" transform="translate(195 899)" fill="#fff"/>
+      <text id="業種" transform="translate(315 1049)" fill="#6b6f73" font-size="20" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-20" y="0">業種</tspan></text>
+      <text id="_9" data-name="9" transform="translate(286 1005)" fill="#19334d" font-size="96" font-family="AzoSans-Bold, Azo Sans" font-weight="700"><tspan x="0" y="0">9</tspan></text>
+      <text id="製造業_小売_EC_サービス業_建設_不動産_医療_介護_物流_運輸_士業_コンサル_飲食_宿泊_教育_学習" data-name="製造業／小売・EC／サービス業／建設・不動産／医療・介護／物流・運輸／士業・コンサル／飲食・宿泊／教育・学習" transform="translate(216 1070)" font-size="12" font-family="NotoSansJP-Regular, Noto Sans JP"><tspan x="0" y="14">製造業／小売・</tspan><tspan y="14">EC／</tspan><tspan y="14">サービス</tspan><tspan y="14">業／建</tspan><tspan x="0" y="31">設・不動産／医療・介護／物流・運</tspan><tspan x="0" y="48">輸／士業・</tspan><tspan y="48">コンサル／</tspan><tspan y="48">飲食・宿泊／</tspan><tspan x="0" y="65">教育・学習</tspan></text>
+    </g>
+  </g>
+</svg>

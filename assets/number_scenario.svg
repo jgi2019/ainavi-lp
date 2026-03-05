@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="260" viewBox="0 0 240 260">
+  <g id="number_scenario" transform="translate(-735 -967)">
+    <g id="グループ_436" data-name="グループ 436" transform="translate(0 68)">
+      <rect id="長方形_384" data-name="長方形 384" width="240" height="260" rx="16" transform="translate(735 899)" fill="#fff"/>
+      <text id="課題事例" transform="translate(855 1049)" fill="#6b6f73" font-size="20" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-40" y="0">課題事例</tspan></text>
+      <g id="グループ_433" data-name="グループ 433" transform="translate(-12 -6)">
+        <text id="_30" data-name="30" transform="translate(798 1011)" fill="#19334d" font-size="96" font-family="AzoSans-Bold, Azo Sans" font-weight="700"><tspan x="0" y="0">30</tspan></text>
+        <text id="_" data-name="+" transform="translate(912 1018)" fill="#19334d" font-size="60" font-family="AzoSans-Bold, Azo Sans" font-weight="700"><tspan x="0" y="0">+</tspan></text>
+      </g>
+      <text id="_見積作成に毎回3日かかる_仕訳ミスが月末に発覚して修正地獄_発注タイミングが_勘と経験_頼み_など" data-name="「見積作成に毎回3日かかる」「仕訳ミスが月末に発覚して修正地獄」「発注タイミングが「勘と経験」頼み」など" transform="translate(755 1070)" font-size="12" font-family="NotoSansJP-Regular, Noto Sans JP"><tspan x="0" y="14">「見積作成</tspan><tspan y="14">に</tspan><tspan y="14">毎回3日</tspan><tspan y="14">かかる」</tspan><tspan y="14">「仕訳</tspan><tspan x="0" y="31">ミスが</tspan><tspan y="31">月末</tspan><tspan y="31">に</tspan><tspan y="31">発覚</tspan><tspan y="31">して</tspan><tspan y="31">修正地獄」</tspan><tspan x="0" y="48">「発注</tspan><tspan y="48">タイミングが</tspan><tspan y="48">「勘</tspan><tspan y="48">と</tspan><tspan y="48">経験」頼</tspan><tspan x="0" y="65">み」など</tspan></text>
+    </g>
+  </g>
+</svg>

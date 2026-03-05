@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="260" viewBox="0 0 240 260">
+  <g id="number_dept" transform="translate(-465 -967)">
+    <g id="グループ_435" data-name="グループ 435" transform="translate(0 68)">
+      <rect id="長方形_383" data-name="長方形 383" width="240" height="260" rx="16" transform="translate(465 899)" fill="#fff"/>
+      <text id="部門" transform="translate(585 1049)" fill="#6b6f73" font-size="20" font-family="NotoSansJP-Bold, Noto Sans JP" font-weight="700"><tspan x="-20" y="0">部門</tspan></text>
+      <text id="_6" data-name="6" transform="translate(555 1005)" fill="#19334d" font-size="96" font-family="AzoSans-Bold, Azo Sans" font-weight="700"><tspan x="0" y="0">6</tspan></text>
+      <text id="営業_マーケティング_カスタマーサポート_総務_経理_人事_情シス_DX推進_経営_戦略" data-name="営業／マーケティング／カスタマーサポート／総務・経理・人事／情シス・DX推進／経営・戦略" transform="translate(485 1070)" font-size="12" font-family="NotoSansJP-Regular, Noto Sans JP"><tspan x="0" y="14">営業／</tspan><tspan y="14">マーケティング／カスタマー</tspan><tspan x="0" y="31">サポート／</tspan><tspan y="31">総務・経理・人事／情</tspan><tspan y="31">シ</tspan><tspan x="0" y="48">ス・</tspan><tspan y="48">DX</tspan><tspan y="48">推進／経営・戦略</tspan></text>
+    </g>
+  </g>
+</svg>
