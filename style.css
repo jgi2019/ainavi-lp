@@ -90,7 +90,7 @@ svg {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 8px;
+  margin-top: 48px;
   position: relative;
   z-index: 3;
   transform: translateY(-215px);
@@ -448,7 +448,7 @@ svg {
 }
 
 .post-section__navera-name {
-  margin-top: 8px;
+  margin-top: 48px;
   font-size: 32px;
   font-weight: 900;
   letter-spacing: 0.04em;
@@ -805,7 +805,7 @@ svg {
   /* --- Hero CTA (SP) --- */
   .hero__cta-sp { text-align: center; padding: 0 20px; margin-top: 30px; position: relative; z-index: 1; }
   .hero__cta-sp .cta__button { font-size: 18px; padding: 16px 20px; display: block; width: 100%; background-color: #FF4500; border-radius: 16px; }
-  .hero__cta-sp .cta__note { margin-top: 8px; font-size: 12px; }
+  .hero__cta-sp .cta__note { margin-top: 48px; font-size: 12px; }
 
   /* --- Scenario --- */
   .scenario { transform: none; padding: 0; background: #EFEBE4; }
